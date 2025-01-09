@@ -1,0 +1,3 @@
+﻿  game.cpp
+D:\LABS\3_semester\OOP_CW\src\cpp\hackenbush\game.cpp(190,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  hackenbush.vcxproj -> D:\LABS\3_semester\OOP_CW\src\cpp\hackenbush\x64\Debug\hackenbush.dll
