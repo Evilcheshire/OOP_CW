@@ -29,7 +29,6 @@ class Menu:
         )
 
     def update_theme(self, theme_name):
-        """Оновлює кольори меню відповідно до теми."""
         self.theme = LIGHT_THEME if theme_name == "light" else DARK_THEME
         self.background_color = self.theme['background']
         self.title_color = self.theme['title']
